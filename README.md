@@ -42,8 +42,8 @@ mvn spring-boot:run
 
 Once running, access the API docs at:
 👉 http://localhost:8080/swagger-ui/index.html
+<img width="1919" height="1025" alt="swagger" src="https://github.com/user-attachments/assets/f607f3eb-e89e-4885-847c-3c1b9f6eef5b" />
 
-<img width="1919" height="1025" alt="image" src="https://github.com/user-attachments/assets/104c89e6-af52-4b0c-a6f9-e779d63ced71" />
 
 3️⃣ Run with Docker (optional)
 If you prefer Docker, everything is preconfigured.
@@ -119,13 +119,3 @@ For the technical test requested by Touch Technologies for the Backend Developer
 
 📝 License
 This project is carried out for technical evaluation purposes for a job offer.
-
-
-
-
-
-
-
-
-
-
