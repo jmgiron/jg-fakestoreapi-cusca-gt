@@ -1,3 +1,7 @@
+[![Build Status](https://scrutinizer-ci.com/g/jmgiron/jg-fakestoreapi-cusca-gt/badges/build.png?b=main)](https://scrutinizer-ci.com/g/jmgiron/jg-fakestoreapi-cusca-gt/build-status/main)
+[![Code Quality](https://scrutinizer-ci.com/g/jmgiron/jg-fakestoreapi-cusca-gt/badges/quality-score.png?b=main)](https://scrutinizer-ci.com/g/jmgiron/jg-fakestoreapi-cusca-gt/?branch=main)
+[![Code Coverage](https://scrutinizer-ci.com/g/jmgiron/jg-fakestoreapi-cusca-gt/badges/coverage.png?b=main)](https://scrutinizer-ci.com/g/jmgiron/jg-fakestoreapi-cusca-gt/?branch=main)
+
 # jg-fakestoreapi-cusca-gt
 Prueba Técnica para Desarrollador Backend SpringBoot.
 
