@@ -30,14 +30,18 @@ This project serves as an implementation of the technical test requested by Touc
 
 ### 1️⃣ Clone the Repository  
 
-```bash
+```shell
 git clone https://github.com/jmgiron/jg-fakestoreapi-test.git
 cd jg-fakestoreapi-test
+```
 
 ### 2️⃣ Run with Maven (Local)
-```bash
+```shell
 mvn clean package -DskipTests
 mvn spring-boot:run
+```
+<img width="1534" height="728" alt="image" src="https://github.com/user-attachments/assets/eb558b15-ffa5-4d79-833b-d7c61eb131ff" />
+
 
 
 Once running, access the API docs at:
@@ -47,14 +51,15 @@ Once running, access the API docs at:
 
 3️⃣ Run with Docker (optional)
 If you prefer Docker, everything is preconfigured.
-```bash
+```shell
 docker-compose up --build
+```
 
 
 ---
 
 🧰 Project Structure
-```bash
+```shell
 jg-fakestoreapi-cusca-gt/
 ├── src/
 │   ├── main/
@@ -68,6 +73,7 @@ jg-fakestoreapi-cusca-gt/
 ├── pom.xml
 ├── Dockerfile
 └── docker-compose.yml
+```
 
 
 ---
@@ -86,9 +92,65 @@ jg-fakestoreapi-cusca-gt/
 ---
 
 📬 Postman Collection
-```bash
+```shell
 /docs/FakeStoreAPI.postman_collection.json
+```
+<img width="1519" height="946" alt="image" src="https://github.com/user-attachments/assets/c204bfbb-3328-4b30-8c94-ed13f4c8ea72" />
 
+
+
+You can import this file directly into Postman to explore and test all available API endpoints.
+
+🧱 Structure Overview
+| # | Request Name      | Method | Endpoint        | Description                                                      |
+| - | ----------------- | ------ | --------------- | ---------------------------------------------------------------- |
+| 1 | **List Products** | GET    | `/api/products` | Fetches a list of all available products from the FakeStore API. |
+| 2 | **Create Client** | POST   | `/api/clients`  | Creates a new client with name, email, and address.              |
+| 3 | **Create Order**  | POST   | `/api/orders`   | Registers an order for a specific client and product list.       |
+| 4 | **Pay Order**     | POST   | `/api/payments` | Simulates a payment process for an order.                        |
+
+
+💡 Example Request Payloads
+🧾 Create Client
+
+```shell
+json
+POST /api/clients
+{
+  "name": "John Doe",
+  "email": "john@example.com",
+  "address": "123 Main"
+}
+```
+
+
+📦 Create Order
+```shell
+json
+POST /api/orders
+{
+  "clientId": 1,
+  "items": [
+    {
+      "productId": 1,
+      "title": "Sample",
+      "unitPrice": 10.0,
+      "quantity": 2
+    }
+  ]
+}
+```
+
+💳 Pay Order
+```shell
+json
+POST /api/payments
+{
+  "orderId": 1,
+  "method": "CARD",
+  "amount": 20.0
+}
+```
 ---
 
 📘 Swagger UI
