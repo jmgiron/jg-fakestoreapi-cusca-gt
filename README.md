@@ -1,6 +1,10 @@
 # jg-fakestoreapi-cusca-gt
 Prueba Técnica para Desarrollador Backend SpringBoot.
 
+Un servicio backend ligero desarrollado con **Spring Boot 3**, diseñado para interactuar con la API de una tienda de productos ficticia.
+Este proyecto implementa la prueba técnica solicitada por Touch Technologies para el puesto de Desarrollador Backend en el Banco Cuscatlán Guatemala. Presenta diseño RESTful, integración con Docker y documentación de la API de Postman. Desarrollado e implementado por el Ing. Jonathan Girón.
+---
+
 A lightweight backend service developed with **Spring Boot 3**, designed to interact with a fake product store API.
 This project serves as an implementation of the technical test requested by Touch Technologies for the Backend Developer position for Banco Cuscatlan Guatemala, showcasing RESTful design, Docker integration, and Postman API documentation. Developed and implemented by Ing. Jonathan Giron.
 
@@ -40,6 +44,8 @@ cd jg-fakestoreapi-test
 mvn clean package -DskipTests
 mvn spring-boot:run
 ```
+
+
 <img width="1534" height="728" alt="image" src="https://github.com/user-attachments/assets/eb558b15-ffa5-4d79-833b-d7c61eb131ff" />
 
 
@@ -95,6 +101,8 @@ jg-fakestoreapi-cusca-gt/
 ```shell
 /docs/FakeStoreAPI.postman_collection.json
 ```
+
+
 <img width="1519" height="946" alt="image" src="https://github.com/user-attachments/assets/c204bfbb-3328-4b30-8c94-ed13f4c8ea72" />
 
 
@@ -173,6 +181,8 @@ Lombok
 Docker
 
 ---
+
+
 👨‍💻 Author
 
 Jonathan Giron
