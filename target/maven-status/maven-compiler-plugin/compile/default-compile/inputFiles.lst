@@ -1,0 +1,14 @@
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\config\DataLoader.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\config\SwaggerConfig.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\controller\ClientController.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\controller\OrderController.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\controller\PaymentController.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\controller\ProductProxyController.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\dto\ProductDto.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\entity\Client.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\entity\OrderDetail.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\entity\OrderEntity.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\exception\GlobalExceptionHandler.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\repository\ClientRepository.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\repository\OrderRepository.java
+C:\Users\jonathan.giron\Documents\CUSCA-GT\jg-fakestoreapi-cusca-gt\src\main\java\com\jg\fakestoreapi\TestApplication.java
