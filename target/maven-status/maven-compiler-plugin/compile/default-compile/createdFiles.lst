@@ -1,0 +1,14 @@
+com\jg\fakestoreapi\exception\GlobalExceptionHandler.class
+com\jg\fakestoreapi\controller\ClientController.class
+com\jg\fakestoreapi\repository\ClientRepository.class
+com\jg\fakestoreapi\TestApplication.class
+com\jg\fakestoreapi\repository\OrderRepository.class
+com\jg\fakestoreapi\entity\OrderEntity.class
+com\jg\fakestoreapi\config\DataLoader.class
+com\jg\fakestoreapi\entity\Client.class
+com\jg\fakestoreapi\controller\PaymentController.class
+com\jg\fakestoreapi\config\SwaggerConfig.class
+com\jg\fakestoreapi\dto\ProductDto.class
+com\jg\fakestoreapi\controller\ProductProxyController.class
+com\jg\fakestoreapi\controller\OrderController.class
+com\jg\fakestoreapi\entity\OrderDetail.class
