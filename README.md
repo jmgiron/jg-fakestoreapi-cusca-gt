@@ -132,6 +132,8 @@ POST /api/clients
   "address": "123 Main"
 }
 ```
+<img width="1535" height="649" alt="image" src="https://github.com/user-attachments/assets/98af778c-91c1-4002-9a8d-613b78081b8a" />
+
 
 
 📦 Create Order
@@ -150,6 +152,8 @@ POST /api/orders
   ]
 }
 ```
+<img width="875" height="844" alt="image" src="https://github.com/user-attachments/assets/4ecbb02a-bfa7-4ba1-aed2-5ec6ddf904a2" />
+
 
 💳 Pay Order
 ```shell
@@ -161,6 +165,8 @@ POST /api/payments
   "amount": 20.0
 }
 ```
+<img width="1467" height="546" alt="image" src="https://github.com/user-attachments/assets/dc02e438-aa42-42e2-be45-5b90726c6319" />
+
 ---
 
 📘 Swagger UI
