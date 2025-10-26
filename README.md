@@ -2,7 +2,9 @@
 Prueba Técnica para Desarrollador Backend SpringBoot.
 
 Un servicio backend ligero desarrollado con **Spring Boot 3**, diseñado para interactuar con la API de una tienda de productos ficticia.
-Este proyecto implementa la prueba técnica solicitada por Touch Technologies para el puesto de Desarrollador Backend en el Banco Cuscatlán Guatemala. Presenta diseño RESTful, integración con Docker y documentación de la API de Postman. Desarrollado e implementado por el Ing. Jonathan Girón.
+Este proyecto implementa la prueba técnica solicitada por Touch Technologies para el puesto de Desarrollador Backend en el Banco Cuscatlán Guatemala. 
+Presenta diseño RESTful, integración con Docker y documentación de la API de Postman. 
+Desarrollado e implementado por el Ing. Jonathan Girón.
 ---
 
 A lightweight backend service developed with **Spring Boot 3**, designed to interact with a fake product store API.
